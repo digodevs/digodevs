@@ -8,7 +8,7 @@
 <h3 align="left">🧠 Idiomas e Tecnologias</h3>
   
   <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,nodejs,react,java,maven,spring" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,react,nextjs" />
 </p>
 
 <h3 align="left">🗄️ Database & Data</h3>
@@ -20,7 +20,7 @@
 <h3 align="left">🛠️ Ferramentas & Sistemas</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
 </p>
   
 </p>
