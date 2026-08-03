@@ -1,73 +1,45 @@
-<img
-  align="right"
-  width="420"
-  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-  alt="Developer Illustration"
-/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<br>
-
-Desenvolvedor Full Stack em constante aprendizado, com foco em Inteligência Artificial, automação e desenvolvimento de software.
-
-Atualmente desenvolvo aplicações modernas utilizando **Python**, **TypeScript**, **React**, **Next.js** e **Node.js**, buscando criar soluções escaláveis, limpas e voltadas para problemas reais.
-
-### 🧠 Idiomas e Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,react,nextjs" />
+<p align="left"> 
+  Desenvolvedor Full Stack Júnior motivado pelo aprendizado e aprimoramento contínuos..<br>
+  Desenvolvo soluções limpas e escaláveis para problemas do mundo real e aprimoro continuamente minhas habilidades por meio de aprendizado constante e projetos práticos.
 </p>
 
-### 🗄️ Database & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase" />
+<h3 align="left">🧠 Idiomas e Tecnologias</h3>
+  
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,react,java,maven,spring" />
 </p>
 
-### 🛠️ Ferramentas & Sistemas
+<h3 align="left">🗄️ Database & Data</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,supabase" />
 </p>
 
-<br clear="both">
+<h3 align="left">🛠️ Ferramentas & Sistemas</h3>
 
-## 💼 Rede Sociais
-
-<p>
-  <a href="mailto:dev.programationtech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/rodrigo-machado-a2a920180">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/adm_prog">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,windows,linux" />
+</p>
+  
 </p>
 
----
+<h3 align="left">💼  Rede Sociais</h3>
 
-## 🚀 Ecossistema
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:oleandrobanin@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[leandrobanin](https://www.linkedin.com/in/rodrigo-machado-a2a920180/)" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=[instagram](https://www.instagram.com/adm_prog)" alt="Instagram"/></a>
+</p>
 
-```text
-🐍 PITON2
-│
-└── ☁️ PitonFlow
-    ├── 💬 WhatsApp Cloud
-    ├── 📄 Currículo Builder
-    └── 🎙️ Studio AI
-```
+##
 
----
+<h3 align="left">📊 Estatísticas do GitHub</h3>
 
-## 📊 Estatísticas do GitHub
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/digodevs?cardType=level&theme=github-dark&fontFamily=Roboto%20Slab&preferLogin=false)](https://git.io/awesome-stats-card)
-
----
-
-<p align="center">
-⭐ Obrigado por visitar meu perfil.!
+<p align="left">
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false">    <img  alt="digodevs's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/digodevs?cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false" />  </a>
 </p>
