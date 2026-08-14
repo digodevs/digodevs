@@ -30,8 +30,8 @@
 <p align="left">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dev.programationtech@gmail.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/rodrigo-machado-a2a920180" title="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[rodrigo-machado-a2a920180](https://www.linkedin.com/in/rodrigo-machado-a2a920180/)" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/rodrigo-machado-digodevs" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[rodrigo-machado-digodevs](https://www.linkedin.com/in/rodrigo-machado-digodevs/)" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/adm_prog" title="Instagram">
   <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=[instagram](https://www.instagram.com/adm_prog)" alt="Instagram"/></a>
 </p>
