@@ -8,10 +8,10 @@
 <h3 align="left">🧠 Idiomas e Tecnologias</h3>
   
   <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,nestjs,react,nextjs" />
 </p>
 
-<h3 align="left">🗄️ Database & Data</h3>
+<h3 align="left">🗄️ Banco de Dados & Dados</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,supabase" />
